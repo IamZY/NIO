@@ -1,0 +1,31 @@
+=============================================
+更多干货技术访问小D课堂官网 https://xdclass.net
+小D老师个人微信：jack794666918
+客服qq：2394005534
+公众号搜索：小D课堂
+=============================================
+
+
+======================1、零基础快速入门SpringBoot2.0 5节课 ===========================
+
+1、SpringBoot2.x课程全套介绍和高手系列知识点
+	简介：介绍SpringBoot2.x课程大纲章节
+		java基础，jdk环境，maven基础
+
+
+2、SpringBoot2.x依赖环境和版本新特性说明
+简介：讲解新版本依赖环境和springboot2新特性概述
+
+		1、依赖版本jdk8以上, Springboot2.x用JDK8, 因为底层是 Spring framework5, 
+		2、安装maven最新版本，maven3.2以上版本，下载地址 ：https://maven.apache.org/download.cgi
+		3、Eclipse或者IDE
+		4、新特性
+		5、翻译工具：https://translate.google.cn/
+		6、springbootGitHub地址：https://github.com/spring-projects/spring-boot
+		7、springboot官方文档：https://spring.io/guides/gs/spring-boot/
+
+
+		
+
+3、快速创建SpringBoot2.x应用之手工创建web应用
+简介：
